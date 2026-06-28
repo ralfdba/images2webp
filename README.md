@@ -61,7 +61,7 @@ Coloca las imágenes dentro de la carpeta `images`.
 Ejecuta el script:
 
 ```bash
-python convert.py
+python main.py
 ```
 
 Las imágenes convertidas aparecerán en la carpeta:
