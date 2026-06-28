@@ -26,7 +26,7 @@ Convierte automáticamente todas las imágenes de una carpeta al formato **WebP*
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/usuario/image-to-webp.git
+git clone https://github.com/ralfdba/image-to-webp.git
 cd image-to-webp
 ```
 
